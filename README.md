@@ -1,6 +1,8 @@
 ### Post Box LINE Notify - กล่องจดหมายแจ้งเตือนผ่าน LINE Notify
 
-> **Version 1.0.0 - 20220316**
+![message_1](https://raw.githubusercontent.com/noonomyen/PostBoxLINENotify/main/images/message_1.jpg)
+
+> **Version 1.0.0 - 2022/03/16**
 
 > **-> [ESP8266 Arduino Core](https://github.com/esp8266/Arduino)**
 > <br>
